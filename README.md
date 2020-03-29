@@ -1,14 +1,10 @@
 # V2Ray Heroku
 
-## 重要
-
-**由于 V2Ray 修改了自动安装脚本，导致该镜像在 Heroku 无法运行。请在 2020 年 2 月 20 日前部署过本镜像的用户，删除原先的应用，并重新在 Heroku 部署本镜像。**
-
-**已经 Fork 过本项目的用户，请重新 Fork 一次。**
-
 ## 概述
 
 用于在 Heroku 上部署 V2Ray Websocket。
+
+网址：https://id.heroku.com/login
 
 **Heroku 为我们提供了免费的容器服务，我们不应该滥用它，所以本项目不宜做为长期翻墙使用。**
 
